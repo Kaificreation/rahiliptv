@@ -19,9 +19,13 @@ https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF: -1 tvg-id="1000009253" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Sony Liv", STAR GOLD HD
 https://port.denver1769.in/oplx7.php?tv=66177
-#EXTINF: -1 tvg-id="1000009253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony Liv", &PICTURES HD
+#EXTINF: -1 tvg-id="1000009253" tvg-logo="https://imgur.com/1GuSyCr.png" group-title="Sony Liv", &PICTURES HD
 https://port.denver1769.in/oplx7.php?tv=66181
 #EXTINF: -1 tvg-id="1000009253" tvg-logo="https://i.imgur.com/e053RWs.png" group-title="Sony Liv", STAR GOLD THRILLS
 https://port.denver1769.in/oplx7.php?tv=221258
 #EXTINF: -1 tvg-id="1000009253" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257.png" group-title="Sony Liv", ZEE CINEMA HD
 https://port.denver1769.in/oplx7.php?tv=206307
+#EXTINF: -1 tvg-id="1000009253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony Liv", STAR GOLD ROMANCE
+https://port.denver1769.in/oplx7.php?tv=66186
+#EXTINF:-1,COLORS CINEPLEX
+https://port.denver1769.in/oplx7.php?tv=104191
