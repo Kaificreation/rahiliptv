@@ -11,25 +11,26 @@ https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF: -1 tvg-id="1000009249" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Sony Liv", SONY MAX
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
-#EXTINF: -1 tvg-id="1000009253" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="Sony Liv", &TV HD
-https://port.denver1769.in/oplx7.php?tv=221253
+#EXTINF: -1 tvg-id="1000009253" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="ZEE5", &TV HD
+https://port.denver1769.in/oplx7.php?tv=66172
+https://port.denver1769.in/oplx7.php?tv=66173
 #EXTINF: -1 tvg-id="1000044878" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony Liv", SONY MAX2
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF: -1 tvg-id="1000009253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony Liv", SONY WAH
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-#EXTINF: -1 tvg-id="1000009253" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Sony Liv", STAR GOLD HD
+#EXTINF: -1 tvg-id="1000009253" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="STAR CHANNELS", STAR GOLD HD
 https://port.denver1769.in/oplx7.php?tv=66177
-#EXTINF: -1 tvg-id="1000009253" tvg-logo="https://imgur.com/1GuSyCr.png" group-title="Sony Liv", &PICTURES HD
+#EXTINF: -1 tvg-id="1000009253" tvg-logo="https://imgur.com/1GuSyCr.png" group-title="ZEE5", &PICTURES HD
 https://port.denver1769.in/oplx7.php?tv=66181
-#EXTINF: -1 tvg-id="1000009253" tvg-logo="https://i.imgur.com/e053RWs.png" group-title="Sony Liv", STAR GOLD THRILLS
+#EXTINF: -1 tvg-id="1000009253" tvg-logo="https://i.imgur.com/e053RWs.png" group-title="STAR CHANNELS", STAR GOLD THRILLS
 https://port.denver1769.in/oplx7.php?tv=221258
-#EXTINF: -1 tvg-id="1000009253" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257.png" group-title="Sony Liv", ZEE CINEMA HD
+#EXTINF: -1 tvg-id="1000009253" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257.png" group-title="ZEE5", ZEE CINEMA HD
 https://port.denver1769.in/oplx7.php?tv=206307
-#EXTINF: -1 tvg-id="1000009253" tvg-logo="https://imgur.com/iCOQK4B.png" group-title="Sony Liv", STAR GOLD ROMANCE
+#EXTINF: -1 tvg-id="1000009253" tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="STAR CHANNELS", STAR GOLD ROMANCE
 https://port.denver1769.in/oplx7.php?tv=66186
-#EXTINF: -1 tvg-id="1000009253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png", COLORS CINEPLEX HD
+#EXTINF: -1 tvg-id="1000009253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="voot", COLORS CINEPLEX HD
 https://port.denver1769.in/oplx7.php?tv=206310
-#EXTINF: -1 tvg-id="1000009253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png", ZEE ACTION
+#EXTINF: -1 tvg-id="1000009253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="zee5", ZEE ACTION
 https://port.denver1769.in/oplx7.php?tv=66191
-#EXTINF: -1 tvg-id="1000009253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png", ZEE ACTION
+#EXTINF: -1 tvg-id="1000009253" tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="VOOT", B4U KADAK
 https://port.denver1769.in/oplx7.php?tv=104199
