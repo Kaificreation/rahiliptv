@@ -32,7 +32,7 @@ https://port.denver1769.in/oplx7.php?tv=66191
 #EXTINF: -1 tvg-id="1000009261" tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="VOOT", B4U KADAK
 https://port.denver1769.in/oplx7.php?tv=104199
 #EXTINF: -1 tvg-id="1000009262" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="ZEE5", &TV HD
-https://port.denver1769.in/oplx7.php?tv=66173
+https://pflixzeem.vercel.app/play?id=zee-tvhd_0
 #EXTINF: -1 tvg-id="1000009263" tvg-logo="https://imgur.com/KRjdRnV.png" group-title="VOOT", COLORS TV HD
 https://port.denver1769.in/oplx7.php?tv=221254
 #EXTINF: -1 tvg-id="1000009264" tvg-logo="https://static.wikia.nocookie.net/hindi-dubbing/images/7/7b/Goldmines_logo.png/revision/latest?cb=20220502060527" group-title="VOOT", GOLDMINES
@@ -41,7 +41,7 @@ https://port.denver1769.in/oplx7.php?tv=112972
 https://port.denver1769.in/oplx7.php?tv=221250
 #EXTINF: -1 tvg-id="1000009254" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/b5/Star_Gold_Select.jpg" group-title="STAR CHANNELS", STAR GOLD SELECT HD
 https://port.denver1769.in/oplx7.php?tv=109960
-#EXTINF: -1 tvg-id="1000009254" tvg-logo="https://en.wikipedia.org/wiki/File:StarPlus_Logo.png" group-title="STAR CHANNELS", STAR PLUS HD
+#EXTINF: -1 tvg-id="1000009254" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="STAR CHANNELS", STAR PLUS HD
 https://port.denver1769.in/oplx7.php?tv=221252
 #EXTINF: -1 tvg-id="1000009254" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/0/06/%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%B0_%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_2018.jpg?20210708155137" group-title="STAR CHANNELS", STAR BHARAT HD
 https://port.denver1769.in/oplx7.php?tv=221255
@@ -57,3 +57,14 @@ https://port.denver1769.in/oplx7.php?tv=355766
 http://45.250.20.254/collection/Movies/Hindi/12%20O%20Clock%20%282021%29%20720p%20WEBDL.mp4
 #EXTINF: -1 tvg-id="1000009254" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Anupamaa_title_card.jpg" group-title="SERIAL", ANUPAMA
 https://curie.9bg.net/s8leQaXPW85yDf-ZDSCf10tKMIhwQxmt75jR83thd5RashwuAp518H1KfgyiIuz7WCzu28DXjJLeQ27d3iVxxQrsuh5NQYl0Nie5JHyvwvrUyGzdu7L_zsaQjV1BZrgWJqkvmf0QdfF4tWmxS0jBorcGS9Or_2H13gJIz0qpcQipQW5mBWQjUCPu9yckjh7TiCbZUQB9EkoeK7jTFGEy-8DoBuC1lD-p0OZ2ZjbekQ4/Jn5kR99oIMJYDQ0vkzgJIzAW-R5pnayp2zLnZOmK3bU/video.m3u8
+#EXTINF: -1 tvg-id="1000009257" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Zee_Cinema_Movies.Masti.Magic_2017.jpg/revision/latest/scale-to-width-down/1000?cb=20190627102140" group-title="ZEE5", ZEE CINEMA SD
+https://pflixzeem.vercel.app/play?id=zee-zeecinema
+#EXTINF: -1 tvg-id="1000009262" tvg-logo="https://en.wikipedia.org/wiki/Zee_ETC_Bollywood#/media/File:ZeeETCBollywoodLogo.png" group-title="ZEE5", ZEE CLASSIC
+https://pflixzeem.vercel.app/play?id=zee-zeeclassic
+#EXTINF: -1 tvg-id="1000009254" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/0/08/Star_Gold_2.jpg" group-title="STAR CHANNELS", STAR GOLD 2
+http://starshare.live/live/KVSingh/KVSingh/4324.ts
+#EXTINF: -1 tvg-id="1000009262" tvg-logo="https://en.wikipedia.org/wiki/Zee_ETC_Bollywood#/media/File:ZeeETCBollywoodLogo.png" group-title="ZEE5", ZEE CINEMA
+https://pflixzeem.vercel.app/play?id=zee-zeecinemahd
+#EXTINF: -1 tvg-id="1000009262" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="ZEE5", ZEE CINEMA
+https://pflixzeem.vercel.app/play?id=zee-zeetvhd
+
