@@ -59,12 +59,12 @@ http://45.250.20.254/collection/Movies/Hindi/12%20O%20Clock%20%282021%29%20720p%
 https://curie.9bg.net/s8leQaXPW85yDf-ZDSCf10tKMIhwQxmt75jR83thd5RashwuAp518H1KfgyiIuz7WCzu28DXjJLeQ27d3iVxxQrsuh5NQYl0Nie5JHyvwvrUyGzdu7L_zsaQjV1BZrgWJqkvmf0QdfF4tWmxS0jBorcGS9Or_2H13gJIz0qpcQipQW5mBWQjUCPu9yckjh7TiCbZUQB9EkoeK7jTFGEy-8DoBuC1lD-p0OZ2ZjbekQ4/Jn5kR99oIMJYDQ0vkzgJIzAW-R5pnayp2zLnZOmK3bU/video.m3u8
 #EXTINF: -1 tvg-id="1000009257" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Zee_Cinema_Movies.Masti.Magic_2017.jpg/revision/latest/scale-to-width-down/1000?cb=20190627102140" group-title="ZEE5", ZEE CINEMA SD
 https://pflixzeem.vercel.app/play?id=zee-zeecinema
-#EXTINF: -1 tvg-id="1000009262" tvg-logo="https://en.wikipedia.org/wiki/Zee_ETC_Bollywood#/media/File:ZeeETCBollywoodLogo.png" group-title="ZEE5", ZEE CLASSIC
-https://pflixzeem.vercel.app/play?id=zee-zeeclassic
+#EXTINF: -1 tvg-id="1000009262" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257.png" group-title="ZEE5", ZEE CINEMA
+https://pflixzeem.vercel.app/play?id=zee-zeecinemahd
 #EXTINF: -1 tvg-id="1000009254" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/0/08/Star_Gold_2.jpg" group-title="STAR CHANNELS", STAR GOLD 2
 http://starshare.live/live/KVSingh/KVSingh/4324.ts
-#EXTINF: -1 tvg-id="1000009262" tvg-logo="https://en.wikipedia.org/wiki/Zee_ETC_Bollywood#/media/File:ZeeETCBollywoodLogo.png" group-title="ZEE5", ZEE CINEMA
-https://pflixzeem.vercel.app/play?id=zee-zeecinemahd
-#EXTINF: -1 tvg-id="1000009262" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="ZEE5", ZEE CINEMA
+#EXTINF: -1 tvg-id="1000009262" tvg-logo="https://en.wikipedia.org/wiki/Zee_ETC_Bollywood#/media/File:ZeeETCBollywoodLogo.png" group-title="ZEE5", ZEE BOLLYWOOD
+https://pflixzeem.vercel.app/play?id=zee-zeeclassic
+#EXTINF: -1 tvg-id="1000009262" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="ZEE5", ZEE TV
 https://pflixzeem.vercel.app/play?id=zee-zeetvhd
 
