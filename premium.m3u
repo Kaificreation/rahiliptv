@@ -16,35 +16,35 @@ https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF: -1 tvg-id="1000009253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony Liv", SONY WAH
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF: -1 tvg-id="1000009254" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="STAR CHANNELS", STAR GOLD HD
-https://port.denver1769.in/oplx7.php?tv=66177
+http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF: -1 tvg-id="1000009255" tvg-logo="https://imgur.com/1GuSyCr.png" group-title="ZEE5", &PICTURES HD
 https://pflixzeem.vercel.app/play?id=zee-tvpictureshd
-#EXTINF: -1 tvg-id="1000009256" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/bb/Star_Gold_Thrills.png" group-title="STAR CHANNELS", STAR GOLD THRILLS
-https://port.denver1769.in/oplx7.php?tv=221258
-#EXTINF: -1 tvg-id="1000009257" tvg-logo="https://a.rstream.me/img/2445605394.png" group-title="ZEE5", ZEE CINEMA SD
-https://pflix48.live:443/jiotv1/app/ts_live_484.m3u8
+#EXTINF: -1 tvg-id="1000009256" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Utsav_Gold_Logo.jpg/220px-Utsav_Gold_Logo.jpg" group-title="STAR CHANNELS", UTSAV GOLD
+http://tv.cloudcdn.me:80/live.ts?channelId=12358&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+#EXTINF: -1 tvg-id="1000009257" tvg-logo="https://a.rstream.me/img/2445605394.png" group-title="ZEE5", ZEE CINEMA UK
+http://tv.cloudcdn.me:80/live.ts?channelId=214&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF: -1 tvg-id="1000009258" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/63/Star_Gold_Romance.png?20221112104050" group-title="STAR CHANNELS", STAR GOLD ROMANCE
-https://port.denver1769.in/oplx7.php?tv=66186
+http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF: -1 tvg-id="1000009259" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="voot", COLORS CINEPLEX HD
-https://port.denver1769.in/oplx7.php?tv=206310
+http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF: -1 tvg-id="1000009260" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="zee5", ZEE ACTION
-https://port.denver1769.in/oplx7.php?tv=66191
+hhttp://tv.cloudcdn.me:80/live.ts?channelId=207&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF: -1 tvg-id="1000009261" tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="VOOT", B4U KADAK
-https://port.denver1769.in/oplx7.php?tv=104199
+hthttp://tv.cloudcdn.me:80/live.ts?channelId=35383&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF: -1 tvg-id="1000009262" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="ZEE5", &TV HD
 https://pflixzeem.vercel.app/play?id=zee-tvhd_0
 #EXTINF: -1 tvg-id="1000009263" tvg-logo="https://imgur.com/KRjdRnV.png" group-title="VOOT", COLORS TV HD
-https://port.denver1769.in/oplx7.php?tv=221254
+http://tv.cloudcdn.me:80/live.ts?channelId=36129&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF: -1 tvg-id="1000009264" tvg-logo="https://static.wikia.nocookie.net/hindi-dubbing/images/7/7b/Goldmines_logo.png/revision/latest?cb=20220502060527" group-title="VOOT", GOLDMINES
 https://port.denver1769.in/oplx7.php?tv=112972
 #EXTINF: -1 tvg-id="1000009265" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="ZEE5", ZEE TV SD
 https://pflixzeem.vercel.app/play?id=zee-zeetv
 #EXTINF: -1 tvg-id="1000009266" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/b5/Star_Gold_Select.jpg" group-title="STAR CHANNELS", STAR GOLD SELECT HD
-https://port.denver1769.in/oplx7.php?tv=109960
+http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF: -1 tvg-id="1000009254" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="STAR CHANNELS", STAR PLUS HD
-https://port.denver1769.in/oplx7.php?tv=221252
-#EXTINF: -1 tvg-id="1000009267" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/0/06/%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%B0_%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_2018.jpg?20210708155137" group-title="STAR CHANNELS", STAR BHARAT HD
-https://port.denver1769.in/oplx7.php?tv=221255
+http://tv.cloudcdn.me:80/live.ts?channelId=12357&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+#EXTINF: -1 tvg-id="1000009267" tvg-logo="http://ujm.from-in.com/panel/imageicon/2b7f152.png" group-title="STAR CHANNELS", STAR BHARAT HD
+http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF: -1 tvg-id="1000009268" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f9/Chhota_Bheem.jpg" group-title="CARTOON", CHOTA BHEEM
 https://port.denver1769.in/oplx7.php?tv=315401
 #EXTINF: -1 tvg-id="1000009269" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tom_and_Jerry_logo.svg/1280px-Tom_and_Jerry_logo.svg.png" group-title="CARTOON", TOM&JERRY
