@@ -21,8 +21,8 @@ https://port.denver1769.in/oplx7.php?tv=66177
 https://pflixzeem.vercel.app/play?id=zee-tvpictureshd
 #EXTINF: -1 tvg-id="1000009256" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/bb/Star_Gold_Thrills.png" group-title="STAR CHANNELS", STAR GOLD THRILLS
 https://port.denver1769.in/oplx7.php?tv=221258
-#EXTINF: -1 tvg-id="1000009257" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257.png" group-title="ZEE5", ZEE CINEMA HD
-https://port.denver1769.in/oplx7.php?tv=206307
+#EXTINF: -1 tvg-id="1000009257" tvg-logo="https://a.rstream.me/img/2445605394.png" group-title="ZEE5", ZEE CINEMA SD
+https://pflix48.live:443/jiotv1/app/ts_live_484.m3u8
 #EXTINF: -1 tvg-id="1000009258" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/63/Star_Gold_Romance.png?20221112104050" group-title="STAR CHANNELS", STAR GOLD ROMANCE
 https://port.denver1769.in/oplx7.php?tv=66186
 #EXTINF: -1 tvg-id="1000009259" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="voot", COLORS CINEPLEX HD
@@ -57,7 +57,7 @@ https://port.denver1769.in/oplx7.php?tv=355766
 https://pflixzeem.vercel.app/play?id=zee-pictures
 #EXTINF: -1 tvg-id="1000009274" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Zee_Cinema_Movies.Masti.Magic_2017.jpg/revision/latest/scale-to-width-down/1000?cb=20190627102140" group-title="ZEE5", ZEE CINEMA SD
 https://pflixzeem.vercel.app/play?id=zee-zeecinema
-#EXTINF: -1 tvg-id="1000009275" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257.png" group-title="ZEE5", ZEE CINEMA
+#EXTINF: -1 tvg-id="1000009275" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257.png" group-title="ZEE5", ZEE CINEMA HD
 https://pflixzeem.vercel.app/play?id=zee-zeecinemahd
 #EXTINF: -1 tvg-id="1000009276" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/0/08/Star_Gold_2.jpg" group-title="STAR CHANNELS", STAR GOLD 2
 http://starshare.live/live/KVSingh/KVSingh/4324.ts
@@ -65,7 +65,6 @@ http://starshare.live/live/KVSingh/KVSingh/4324.ts
 https://pflixzeem.vercel.app/play?id=zee-zeeclassic
 #EXTINF: -1 tvg-id="1000009278" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="ZEE5", ZEE TV HD
 https://pflixzeem.vercel.app/play?id=zee-zeetvhd
-#EXTINF: -1 tvg-id="1000009279" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="ZEE5", &TV HD
-https://pflixzeem.vercel.app/play?id=zee-tvhd_0
-
+#EXTINF: -1 tvg-id="1000009279" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="ZEE5", &TV SD
+https://pflix48.live:443/jiotv1/app/ts_live_2024.m3u8
 
