@@ -49,8 +49,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=4166&deviceMac=00:1A:79:F3:9F
 https://port.denver1769.in/oplx7.php?tv=315401
 #EXTINF: -1 tvg-id="1000009269" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tom_and_Jerry_logo.svg/1280px-Tom_and_Jerry_logo.svg.png" group-title="CARTOON", TOM&JERRY
 https://port.denver1769.in/oplx7.php?tv=329247
-#EXTINF: -1 tvg-id="1000009270" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Promotional_Logo_2014-08-07_10-34.jpg" group-title="CARTOON", BAAL VEER
-https://port.denver1769.in/oplx7.php?tv=340809
+#EXTINF: -1 tvg-id="1000009270" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Promotional_Logo_2014-08-07_10-34.jpg" group-title="CARTOON", BHOOL BHULAIYA
+http://opplex.live:8080/movie/8899@karim/9988@karim/384331.mkv
 #EXTINF: -1 tvg-id="1000009271" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/2560px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="CARTOON", NICK HD
 https://port.denver1769.in/oplx7.php?tv=355766
 #EXTINF: -1 tvg-id="1000009273" tvg-logo="https://a.rstream.me/img/479290285.png" group-title="ZEE", &PICTURES SD
