@@ -18,7 +18,7 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF: -1 tvg-id="1000009254" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="STAR CHANNELS", STAR GOLD HD
 https://port.denver1769.in/oplx7.php?tv=66177
 #EXTINF: -1 tvg-id="1000009255" tvg-logo="https://imgur.com/1GuSyCr.png" group-title="ZEE5", &PICTURES HD
-https://port.denver1769.in/oplx7.php?tv=66181
+https://pflixzeem.vercel.app/play?id=zee-tvpictureshd
 #EXTINF: -1 tvg-id="1000009256" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/bb/Star_Gold_Thrills.png" group-title="STAR CHANNELS", STAR GOLD THRILLS
 https://port.denver1769.in/oplx7.php?tv=221258
 #EXTINF: -1 tvg-id="1000009257" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257.png" group-title="ZEE5", ZEE CINEMA HD
@@ -37,8 +37,8 @@ https://pflixzeem.vercel.app/play?id=zee-tvhd_0
 https://port.denver1769.in/oplx7.php?tv=221254
 #EXTINF: -1 tvg-id="1000009264" tvg-logo="https://static.wikia.nocookie.net/hindi-dubbing/images/7/7b/Goldmines_logo.png/revision/latest?cb=20220502060527" group-title="VOOT", GOLDMINES
 https://port.denver1769.in/oplx7.php?tv=112972
-#EXTINF: -1 tvg-id="1000009265" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="ZEE5", ZEE TV HD
-https://port.denver1769.in/oplx7.php?tv=221250
+#EXTINF: -1 tvg-id="1000009265" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="ZEE5", ZEE TV SD
+https://pflixzeem.vercel.app/play?id=zee-zeetv
 #EXTINF: -1 tvg-id="1000009266" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/b5/Star_Gold_Select.jpg" group-title="STAR CHANNELS", STAR GOLD SELECT HD
 https://port.denver1769.in/oplx7.php?tv=109960
 #EXTINF: -1 tvg-id="1000009254" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="STAR CHANNELS", STAR PLUS HD
@@ -53,10 +53,8 @@ https://port.denver1769.in/oplx7.php?tv=329247
 https://port.denver1769.in/oplx7.php?tv=340809
 #EXTINF: -1 tvg-id="1000009271" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/2560px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="CARTOON", NICK HD
 https://port.denver1769.in/oplx7.php?tv=355766
-#EXTINF: -1 tvg-id="1000009272" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Animal_%282023_film%29_poster.jpg" group-title="MOVIE", 12clock
-http://45.250.20.254/collection/Movies/Hindi/12%20O%20Clock%20%282021%29%20720p%20WEBDL.mp4
-#EXTINF: -1 tvg-id="1000009273" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Anupamaa_title_card.jpg" group-title="SERIAL", ANUPAMA
-https://curie.9bg.net/s8leQaXPW85yDf-ZDSCf10tKMIhwQxmt75jR83thd5RashwuAp518H1KfgyiIuz7WCzu28DXjJLeQ27d3iVxxQrsuh5NQYl0Nie5JHyvwvrUyGzdu7L_zsaQjV1BZrgWJqkvmf0QdfF4tWmxS0jBorcGS9Or_2H13gJIz0qpcQipQW5mBWQjUCPu9yckjh7TiCbZUQB9EkoeK7jTFGEy-8DoBuC1lD-p0OZ2ZjbekQ4/Jn5kR99oIMJYDQ0vkzgJIzAW-R5pnayp2zLnZOmK3bU/video.m3u8
+#EXTINF: -1 tvg-id="1000009273" tvg-logo="https://a.rstream.me/img/479290285.png" group-title="ZEE", &PICTURES SD
+https://pflixzeem.vercel.app/play?id=zee-pictures
 #EXTINF: -1 tvg-id="1000009274" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Zee_Cinema_Movies.Masti.Magic_2017.jpg/revision/latest/scale-to-width-down/1000?cb=20190627102140" group-title="ZEE5", ZEE CINEMA SD
 https://pflixzeem.vercel.app/play?id=zee-zeecinema
 #EXTINF: -1 tvg-id="1000009275" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257.png" group-title="ZEE5", ZEE CINEMA
@@ -65,7 +63,7 @@ https://pflixzeem.vercel.app/play?id=zee-zeecinemahd
 http://starshare.live/live/KVSingh/KVSingh/4324.ts
 #EXTINF: -1 tvg-id="1000009277" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg/revision/latest?cb=20191214174432" group-title="ZEE5", ZEE BOLLYWOOD
 https://pflixzeem.vercel.app/play?id=zee-zeeclassic
-#EXTINF: -1 tvg-id="1000009278" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="ZEE5", ZEE TV
+#EXTINF: -1 tvg-id="1000009278" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="ZEE5", ZEE TV HD
 https://pflixzeem.vercel.app/play?id=zee-zeetvhd
 #EXTINF: -1 tvg-id="1000009279" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="ZEE5", &TV HD
 https://pflixzeem.vercel.app/play?id=zee-tvhd_0
