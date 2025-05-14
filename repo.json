@@ -1,0 +1,11 @@
+{
+  "name": "Zee5 Cloudstream Repo",
+  "description": "Live TV + VOD Extension for Zee5",
+  "manifestVersion": 1,
+  "pluginLists": [
+    {
+      "name": "Zee5Cloudstream",
+      "url": "./Zee5Cloudstream/build.gradle.kts"
+    }
+  ]
+}
